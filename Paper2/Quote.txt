@@ -1,0 +1,12 @@
+Game Design as Narrative Architecture
+by Henry Jenkins
+
+Interactivity is almost the opposite of narrative; narrative flows under the
+direction of the author, while interactivity depends on the player for
+motive power. (Adams 1999)
+
+Abstraction of Tetris would seem to defy narrative interpretation,
+but that is not the same thing as insisting that no meaningful analysis can
+be made of the game and its fit within contemporary culture. (Eskelinen 2001)
+
+Given those narrative aspirations, it seems reasonable to suggest that some understanding of how games relate to narrative is necessary before we understand the aesthetics of game design or the nature of contemporary game culture. (Henry Jenkins 2004)
